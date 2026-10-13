@@ -77,7 +77,7 @@ export default function Footer() {
                 {[
                   { Icon: SiGithub, href: "https://github.com/rameezik", label: "GitHub" },
                   { Icon: FaLinkedin, href: "https://www.linkedin.com/in/rameezimran", label: "LinkedIn" },
-                  { Icon: FaInstagram, href: "https://insagram.com/rameez_ik", label: "Instagram" },
+                  { Icon: FaInstagram, href: "https://instagram.com/rameez_ik", label: "Instagram" },
                 ].map(({ Icon, href, label }) => (
                   <a
                     key={label}
