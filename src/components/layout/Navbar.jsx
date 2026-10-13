@@ -71,7 +71,7 @@ export default function Navbar() {
         >
           <Code2 className="h-8 w-8 text-white" />
           <span
-            className="text-[29px] font-bold tracking-tight
+            className="shrink-0 text-[29px] font-bold tracking-tight
               bg-[linear-gradient(90deg,rgba(255,255,255,1)_0%,rgba(74,222,128,1)_50%)]
               bg-clip-text text-transparent"
           >
