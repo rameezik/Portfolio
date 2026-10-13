@@ -76,7 +76,7 @@ export default function Footer() {
               <div className="mt-6 flex flex-wrap gap-3">
                 {[
                   { Icon: SiGithub, href: "https://github.com/rameezik", label: "GitHub" },
-                  { Icon: FaLinkedin, href: "https://linkedIn.com/", label: "LinkedIn" },
+                  { Icon: FaLinkedin, href: "https://www.linkedin.com/in/rameezimran", label: "LinkedIn" },
                   { Icon: FaInstagram, href: "https://insagram.com/rameez_ik", label: "Instagram" },
                 ].map(({ Icon, href, label }) => (
                   <a

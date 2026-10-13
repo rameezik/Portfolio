@@ -75,7 +75,7 @@ export default function Navbar() {
               bg-[linear-gradient(90deg,rgba(255,255,255,1)_0%,rgba(74,222,128,1)_50%)]
               bg-clip-text text-transparent"
           >
-            Rameez
+            Rameez Imran
           </span>
         </button>
 
